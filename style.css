@@ -1,0 +1,30 @@
+header {
+  background: rgb(190, 190, 188);
+  width: 100%;
+  height: 100px;
+  float: left;
+}
+section {
+  background: rgb(241, 240, 238);
+  width: 50%;
+  height: 500px;
+  float: left;
+}
+aside {
+  background: rgb(241, 240, 238);
+  width: 50%;
+  height: 500px;
+  float: right;
+}
+footer {
+  background: rgb(114, 114, 116);
+  width: 100%;
+  height: 20px;
+  float: right;
+}
+p {
+  font: 14px Arial, sans-serif;
+  color: rgb(7, 7, 7);
+  text-align: center;
+  text-shadow: 0ch;
+}
