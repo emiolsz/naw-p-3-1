@@ -1,30 +1,27 @@
-header {
-  background: rgb(190, 190, 188);
-  width: 100%;
-  height: 100px;
-  float: left;
-}
-section {
-  background: rgb(241, 240, 238);
-  width: 50%;
-  height: 500px;
-  float: left;
-}
-aside {
-  background: rgb(241, 240, 238);
-  width: 50%;
-  height: 500px;
-  float: right;
-}
-footer {
-  background: rgb(114, 114, 116);
-  width: 100%;
-  height: 20px;
-  float: right;
-}
-p {
-  font: 14px Arial, sans-serif;
-  color: rgb(7, 7, 7);
+body {
+  background: #dfdede;
+  margin: 0 20%;
   text-align: center;
-  text-shadow: 0ch;
+}
+
+.top {
+  background: #cccccc;
+  border: 3px solid #acacac;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 20px 0px;
+  text-align: center;
+  color: #2a2df0;
+  font-size: 30px;
+  font-weight: bold;
+}
+.menu,
+.footer {
+  background: #cccccc;
+  border: 3px solid #acacac;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  color: #2a2df0;
+  font-size: 18px;
 }
