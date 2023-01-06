@@ -5,11 +5,11 @@ body {
   scroll-behavior: smooth;
 }
 #header {
-  width: 100%;
-  background-color: #2a2df0;
+  width: 80%;
+  background-color: #070788;
   border: 3px solid #acacac;
   border-radius: 10px;
-  color: #48badd;
+  color: #dbe2e4;
   position: fixed;
   top: 0;
 }
@@ -34,20 +34,22 @@ main {
   width: 960px;
   margin: 0 auto;
   margin-top: 100px;
+  border-radius: 10px;
 }
 section {
   margin-top: 100px;
-  padding-left: 100px;
+  padding: 80px;
   padding-bottom: 50px;
 }
+
 section,
 footer {
-  width: 100%;
+  width: 80%;
   background-color: #303492;
   border: 3px solid #acacac;
   border-radius: 10px;
   color: #48badd;
   padding: 10px;
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
 }
